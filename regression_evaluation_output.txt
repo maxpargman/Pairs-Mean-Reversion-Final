@@ -1,0 +1,60 @@
+(GOOGL, GOOG) Regression Evaluation
+Model Coefficient (Slope): 1.0056
+Model Intercept (Bias): -0.0131
+Mean Squared Error: 0.3968
+R² Score: 0.9984
+
+(FOXA, FOX) Regression Evaluation
+Model Coefficient (Slope): 0.8629
+Model Intercept (Bias): 1.9876
+Mean Squared Error: 0.5161
+R² Score: 0.9848
+
+(PAGP, PAA) Regression Evaluation
+Model Coefficient (Slope): 0.9753
+Model Intercept (Bias): -0.3005
+Mean Squared Error: 0.0768
+R² Score: 0.9333
+
+(CHTR, LBRDK) Regression Evaluation
+Model Coefficient (Slope): 0.2772
+Model Intercept (Bias): -17.7708
+Mean Squared Error: 79.7798
+R² Score: 0.5320
+
+(AVB, EQR) Regression Evaluation
+Model Coefficient (Slope): 0.3683
+Model Intercept (Bias): -2.7357
+Mean Squared Error: 21.9990
+R² Score: 0.4411
+
+(LEN, DHI) Regression Evaluation
+Model Coefficient (Slope): 1.1092
+Model Intercept (Bias): -10.1517
+Mean Squared Error: 57.6100
+R² Score: 0.7895
+
+(AMAT, LRCX) Regression Evaluation
+Model Coefficient (Slope): 0.4635
+Model Intercept (Bias): -2.5831
+Mean Squared Error: 31.2448
+R² Score: 0.6598
+
+(SLG, VNO) Regression Evaluation
+Model Coefficient (Slope): 0.5985
+Model Intercept (Bias): 2.3440
+Mean Squared Error: 37.5151
+R² Score: 0.1398
+
+(BRX, KIM) Regression Evaluation
+Model Coefficient (Slope): 0.9124
+Model Intercept (Bias): 0.4759
+Mean Squared Error: 3.0671
+R² Score: 0.4476
+
+(VMC, MLM) Regression Evaluation
+Model Coefficient (Slope): 2.1019
+Model Intercept (Bias): -8.1621
+Mean Squared Error: 1360.4124
+R² Score: -0.0141
+

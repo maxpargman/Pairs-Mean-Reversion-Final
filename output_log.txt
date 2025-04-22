@@ -1,0 +1,366 @@
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Short GOOG @ 139.6498 for size 6112 and cash 853539
+2024-01-02 09:30:00: Long GOOGL @ 138.4694 for size 6146 and cash 851032
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Long PAA @ 13.8118 for size 6801 and cash 93934
+2024-01-02 09:30:00: Short PAGP @ 14.6752 for size 6632 and cash 97325
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Long LBRDK @ 80.4400 for size 145 and cash 11663
+2024-01-02 09:30:00: Short CHTR @ 385.5200 for size 40 and cash 15420
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Long EQR @ 58.0281 for size 794 and cash 46074
+2024-01-02 09:30:00: Short AVB @ 178.6621 for size 292 and cash 52169
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Short DHI @ 147.0532 for size 224 and cash 32939
+2024-01-02 09:30:00: Long LEN @ 138.2149 for size 248 and cash 34277
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Short LRCX @ 75.8746 for size 231 and cash 17527
+2024-01-02 09:30:00: Long AMAT @ 158.2415 for size 107 and cash 16931
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Long KIM @ 19.9738 for size 2646 and cash 52850
+2024-01-02 09:30:00: Short BRX @ 21.6230 for size 2414 and cash 52197
+2024-01-02 09:30:00, Real value: 100000.00
+2024-01-02 09:30:00: Short MLM @ 490.6257 for size 78 and cash 38268
+2024-01-02 09:30:00: Long VMC @ 222.4042 for size 163 and cash 36251
+2024-01-11 15:10:00: Closing positions for DHI and LEN, Previous spread: 0.0103, Spread: -0.0555
+2024-01-11 15:10:00, Real value: 98219.26
+2024-01-11 15:12:00: Trade Closed | PnL: -1358.65
+2024-01-11 15:12:00: Trade Closed | PnL: 2264.39
+2024-01-16 09:32:00, Real value: 99095.82
+2024-01-16 09:32:00: Long FOX @ 27.7822 for size 1792 and cash 49785
+2024-01-16 09:32:00: Short FOXA @ 30.1469 for size 1546 and cash 46607
+2024-01-16 09:46:00, Real value: 99144.11
+2024-01-16 09:46:00: Short DHI @ 150.8990 for size 216 and cash 32594
+2024-01-16 09:46:00: Long LEN @ 143.1562 for size 239 and cash 34214
+2024-01-17 10:41:00, Real value: 98850.86
+2024-01-17 10:41:00: Long VNO @ 25.5004 for size 414 and cash 10557
+2024-01-17 10:41:00: Short SLG @ 40.6597 for size 247 and cash 10042
+2024-01-23 09:30:00: Closing positions for DHI and LEN, Previous spread: 2.0512, Spread: -4.5240
+2024-01-23 09:30:00, Real value: 98374.65
+2024-01-23 09:30:00, Real value: 98374.65
+2024-01-23 09:30:00: Long DHI @ 145.7185 for size 222 and cash 32349
+2024-01-23 09:30:00: Short LEN @ 144.6061 for size 246 and cash 35573
+2024-01-23 09:37:00: Trade Closed | PnL: 931.09
+2024-01-23 09:37:00: Trade Closed | PnL: 369.37
+2024-01-30 09:30:00: Closing positions for FOX and FOXA, Previous spread: -0.0737, Spread: 0.0826
+2024-01-30 09:30:00, Real value: 101246.77
+2024-01-30 09:43:00: Trade Closed | PnL: 2629.4
+2024-01-30 09:43:00: Trade Closed | PnL: -2423.82
+2024-02-01 10:54:00: Closing positions for PAA and PAGP, Previous spread: -0.0070, Spread: 0.0027
+2024-02-01 10:54:00, Real value: 100991.62
+2024-02-01 10:59:00: Trade Closed | PnL: 4700.85
+2024-02-01 10:59:00: Trade Closed | PnL: -3356.46
+2024-02-01 11:36:00, Real value: 101265.41
+2024-02-01 11:36:00: Long PAA @ 14.5630 for size 6532 and cash 95125
+2024-02-01 11:36:00: Short PAGP @ 15.3119 for size 6370 and cash 97536
+2024-02-06 15:10:00: Closing positions for LBRDK and CHTR, Previous spread: -0.1000, Spread: 0.0340
+2024-02-06 15:10:00, Real value: 103578.88
+2024-02-06 15:11:00: Trade Closed | PnL: -2535.32
+2024-02-06 15:11:00: Trade Closed | PnL: 3828.4
+2024-02-07 12:44:00, Real value: 102310.99
+2024-02-07 12:44:00: Long FOX @ 26.9213 for size 1909 and cash 51392
+2024-02-07 12:44:00: Short FOXA @ 29.1180 for size 1647 and cash 47957
+2024-02-08 11:42:00: Closing positions for PAA and PAGP, Previous spread: -0.0060, Spread: 0.0120
+2024-02-08 11:42:00, Real value: 102103.80
+2024-02-08 11:47:00: Trade Closed | PnL: -1395.89
+2024-02-08 11:47:00: Trade Closed | PnL: 1781.69
+2024-02-08 13:28:00, Real value: 101802.43
+2024-02-08 13:28:00: Long PAA @ 14.3262 for size 6675 and cash 95627
+2024-02-08 13:28:00: Short PAGP @ 15.0601 for size 6509 and cash 98026
+2024-02-08 14:16:00: Closing positions for PAA and PAGP, Previous spread: -0.0112, Spread: 0.0029
+2024-02-08 14:16:00, Real value: 101921.41
+2024-02-08 14:25:00: Trade Closed | PnL: 247.64
+2024-02-08 14:25:00: Trade Closed | PnL: 29.94
+2024-02-09 09:39:00, Real value: 102525.67
+2024-02-09 09:39:00: Long PAA @ 14.1915 for size 6786 and cash 96303
+2024-02-09 09:39:00: Short PAGP @ 14.9296 for size 6618 and cash 98804
+2024-02-09 09:54:00: Closing positions for PAA and PAGP, Previous spread: -0.1088, Spread: 0.0094
+2024-02-09 09:54:00, Real value: 102875.15
+2024-02-09 09:55:00: Trade Closed | PnL: 1575.71
+2024-02-09 09:55:00: Trade Closed | PnL: -1234.26
+2024-02-09 14:02:00, Real value: 103189.95
+2024-02-09 14:02:00: Long PAA @ 14.2240 for size 6815 and cash 96936
+2024-02-09 14:02:00: Short PAGP @ 14.9669 for size 6646 and cash 99470
+2024-02-09 15:09:00, Real value: 103752.63
+2024-02-09 15:09:00: Long LBRDK @ 60.8000 for size 199 and cash 12099
+2024-02-09 15:09:00: Short CHTR @ 292.8400 for size 55 and cash 16106
+2024-02-20 15:51:00: Closing positions for PAA and PAGP, Previous spread: -0.0007, Spread: 0.0040
+2024-02-20 15:51:00, Real value: 103689.62
+2024-02-20 15:52:00: Trade Closed | PnL: 5538.55
+2024-02-20 15:52:00: Trade Closed | PnL: -5019.72
+2024-02-23 10:46:00, Real value: 103540.46
+2024-02-23 10:46:00: Long PAA @ 15.3385 for size 6341 and cash 97261
+2024-02-23 10:46:00: Short PAGP @ 16.1092 for size 6184 and cash 99619
+2024-02-27 10:42:00: Closing positions for PAA and PAGP, Previous spread: -0.0007, Spread: 0.0043
+2024-02-27 10:42:00, Real value: 104494.32
+2024-02-27 10:45:00: Trade Closed | PnL: -531.38
+2024-02-27 10:45:00: Trade Closed | PnL: 1038.29
+2024-02-29 12:55:00, Real value: 103836.97
+2024-02-29 12:55:00: Long PAA @ 15.3664 for size 6347 and cash 97530
+2024-02-29 12:55:00: Short PAGP @ 16.1302 for size 6189 and cash 99829
+2024-03-05 09:37:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0650, Spread: -0.0876
+2024-03-05 09:37:00, Real value: 105313.84
+2024-03-05 09:37:00, Real value: 105313.84
+2024-03-05 09:37:00: Long GOOG @ 133.0415 for size 6756 and cash 898828
+2024-03-05 09:37:00: Short GOOGL @ 132.3988 for size 6793 and cash 899385
+2024-03-05 09:40:00: Trade Closed | PnL: 40980.35
+2024-03-05 09:40:00: Trade Closed | PnL: -38410.66
+2024-03-05 09:49:00: Closing positions for GOOG and GOOGL, Previous spread: -0.0042, Spread: 0.0128
+2024-03-05 09:49:00, Real value: 105234.19
+2024-03-05 09:50:00: Trade Closed | PnL: -4255.6
+2024-03-05 09:50:00: Trade Closed | PnL: 4461.64
+2024-03-05 10:09:00, Real value: 104620.71
+2024-03-05 10:09:00: Short GOOG @ 131.8970 for size 6770 and cash 892942
+2024-03-05 10:09:00: Long GOOGL @ 131.0952 for size 6808 and cash 892496
+2024-03-05 14:05:00: Closing positions for PAA and PAGP, Previous spread: -0.0086, Spread: 0.0051
+2024-03-05 14:05:00, Real value: 102915.53
+2024-03-05 14:08:00: Trade Closed | PnL: 1002.19
+2024-03-05 14:08:00: Trade Closed | PnL: -548.35
+2024-03-06 15:54:00, Real value: 101504.18
+2024-03-06 15:54:00: Short PAA @ 15.5847 for size 6118 and cash 95347
+2024-03-06 15:54:00: Long PAGP @ 16.2211 for size 5966 and cash 96775
+2024-03-08 11:24:00: Closing positions for PAA and PAGP, Previous spread: 0.0014, Spread: -0.0030
+2024-03-08 11:24:00, Real value: 103782.65
+2024-03-08 11:26:00: Trade Closed | PnL: 113.79
+2024-03-08 11:26:00: Trade Closed | PnL: 278.02
+2024-03-11 09:40:00: Closing positions for GOOG and GOOGL, Previous spread: 0.1002, Spread: -0.0030
+2024-03-11 09:40:00, Real value: 104329.68
+2024-03-11 09:42:00: Trade Closed | PnL: -40762.85
+2024-03-11 09:42:00: Trade Closed | PnL: 41076.75
+2024-03-11 09:52:00, Real value: 104279.05
+2024-03-11 09:52:00: Short GOOG @ 137.6693 for size 6465 and cash 890032
+2024-03-11 09:52:00: Long GOOGL @ 136.7975 for size 6501 and cash 889320
+2024-03-12 13:18:00, Real value: 103743.43
+2024-03-12 13:18:00: Short PAA @ 15.5847 for size 6253 and cash 97451
+2024-03-12 13:18:00: Long PAGP @ 16.2211 for size 6098 and cash 98916
+2024-03-18 09:30:00: Closing positions for GOOG and GOOGL, Previous spread: 0.1605, Spread: -0.0490
+2024-03-18 09:30:00, Real value: 106881.37
+2024-03-18 09:36:00: Trade Closed | PnL: -86956.84
+2024-03-18 09:36:00: Trade Closed | PnL: 87178.41
+2024-03-18 11:53:00, Real value: 105144.42
+2024-03-18 11:53:00: Short GOOG @ 150.2688 for size 5972 and cash 897405
+2024-03-18 11:53:00: Long GOOGL @ 149.3567 for size 6005 and cash 896886
+2024-03-18 15:55:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0468, Spread: -0.0096
+2024-03-18 15:55:00, Real value: 105597.03
+2024-03-18 15:56:00: Trade Closed | PnL: 13563.01
+2024-03-18 15:56:00: Trade Closed | PnL: -12967.8
+2024-03-19 09:53:00, Real value: 106198.81
+2024-03-19 09:53:00: Short GOOG @ 146.7357 for size 6177 and cash 906386
+2024-03-19 09:53:00: Long GOOGL @ 145.8039 for size 6211 and cash 905588
+2024-03-20 09:34:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0272, Spread: -0.0233
+2024-03-20 09:34:00, Real value: 106520.82
+2024-03-20 09:41:00: Trade Closed | PnL: -4856.98
+2024-03-20 09:41:00: Trade Closed | PnL: 5438.97
+2024-03-20 11:06:00, Real value: 107446.78
+2024-03-20 11:06:00: Short GOOG @ 147.8006 for size 6205 and cash 917102
+2024-03-20 11:06:00: Long GOOGL @ 146.8922 for size 6239 and cash 916460
+2024-03-22 15:59:00: Closing positions for PAA and PAGP, Previous spread: 0.0084, Spread: -0.0145
+2024-03-22 15:59:00, Real value: 106850.73
+2024-03-25 09:30:00: Trade Closed | PnL: -2090.38
+2024-03-25 09:30:00: Trade Closed | PnL: 2871.55
+2024-03-25 13:52:00, Real value: 105794.79
+2024-03-25 13:52:00: Long PAA @ 15.9933 for size 6214 and cash 99382
+2024-03-25 13:52:00: Short PAGP @ 16.7759 for size 6060 and cash 101661
+2024-03-28 10:06:00: Closing positions for PAA and PAGP, Previous spread: -0.0122, Spread: 0.0056
+2024-03-28 10:06:00, Real value: 104901.01
+2024-03-28 10:07:00: Trade Closed | PnL: 1472.1
+2024-03-28 10:07:00: Trade Closed | PnL: -960.51
+2024-04-09 11:31:00, Real value: 103051.86
+2024-04-09 11:31:00: Long PAA @ 17.3772 for size 5570 and cash 96791
+2024-04-09 11:31:00: Short PAGP @ 18.2015 for size 5432 and cash 98870
+2024-04-24 15:58:00: Closing positions for LRCX and AMAT, Previous spread: 0.0852, Spread: -0.0086
+2024-04-24 15:58:00, Real value: 101058.48
+2024-04-24 15:59:00: Trade Closed | PnL: -2692.95
+2024-04-24 15:59:00: Trade Closed | PnL: 3869.06
+2024-05-07 15:48:00, Real value: 101866.54
+2024-05-07 15:48:00: Long LRCX @ 90.5405 for size 197 and cash 17836
+2024-05-07 15:48:00: Short AMAT @ 206.2363 for size 91 and cash 18767
+2024-05-09 15:12:00: Closing positions for FOX and FOXA, Previous spread: -0.0145, Spread: 0.0077
+2024-05-09 15:12:00, Real value: 102532.86
+2024-05-09 15:20:00: Trade Closed | PnL: 6693.14
+2024-05-09 15:20:00: Trade Closed | PnL: -6286.93
+2024-06-04 09:59:00, Real value: 102334.47
+2024-06-04 09:59:00: Short FOX @ 32.0575 for size 1604 and cash 51420
+2024-06-04 09:59:00: Long FOXA @ 34.5815 for size 1384 and cash 47860
+2024-06-21 15:59:00: Closing positions for GOOG and GOOGL, Previous spread: 0.3713, Spread: -0.2380
+2024-06-21 15:59:00, Real value: 108150.99
+2024-06-21 15:59:00, Real value: 108150.99
+2024-06-21 15:59:00: Long GOOG @ 179.6021 for size 5139 and cash 922975
+2024-06-21 15:59:00: Short GOOGL @ 178.8490 for size 5167 and cash 924112
+2024-06-24 09:30:00: Trade Closed | PnL: -204400.15
+2024-06-24 09:30:00: Trade Closed | PnL: 204123.23
+2024-06-24 09:30:00: Closing positions for GOOG and GOOGL, Previous spread: -0.2380, Spread: 0.1973
+2024-06-24 09:30:00, Real value: 106512.70
+2024-06-24 09:30:00, Real value: 106512.70
+2024-06-24 09:30:00: Short GOOG @ 181.0369 for size 5021 and cash 908986
+2024-06-24 09:30:00: Long GOOGL @ 179.8429 for size 5049 and cash 908026
+2024-06-24 09:38:00: Trade Closed | PnL: -3481.67
+2024-06-24 09:38:00: Trade Closed | PnL: 4427.09
+2024-06-26 13:58:00: Closing positions for LRCX and AMAT, Previous spread: -0.1333, Spread: 0.0061
+2024-06-26 13:58:00, Real value: 104899.37
+2024-06-26 14:05:00: Trade Closed | PnL: 2647.98
+2024-06-26 14:05:00: Trade Closed | PnL: -2189.71
+2024-07-09 15:54:00, Real value: 105203.97
+2024-07-09 15:54:00: Long LRCX @ 110.3552 for size 167 and cash 18429
+2024-07-09 15:54:00: Short AMAT @ 250.2283 for size 77 and cash 19267
+2024-07-18 14:55:00: Closing positions for DHI and LEN, Previous spread: -0.2404, Spread: 0.0154
+2024-07-18 14:55:00, Real value: 106914.28
+2024-07-18 14:57:00: Trade Closed | PnL: 5678.83
+2024-07-18 14:57:00: Trade Closed | PnL: -4798.62
+2024-07-19 09:44:00, Real value: 106594.36
+2024-07-19 09:44:00: Short DHI @ 174.9291 for size 200 and cash 34985
+2024-07-19 09:44:00: Long LEN @ 164.4243 for size 221 and cash 36337
+2024-07-24 14:26:00: Closing positions for DHI and LEN, Previous spread: 0.0947, Spread: -0.1827
+2024-07-24 14:26:00, Real value: 107690.20
+2024-07-24 14:42:00: Trade Closed | PnL: 799.2
+2024-07-24 14:42:00: Trade Closed | PnL: -163.67
+2024-07-26 15:19:00, Real value: 105957.91
+2024-07-26 15:19:00: Long DHI @ 175.3461 for size 199 and cash 34893
+2024-07-26 15:19:00: Short LEN @ 169.7380 for size 220 and cash 37342
+2024-08-01 09:30:00: Closing positions for DHI and LEN, Previous spread: -0.0302, Spread: 0.3550
+2024-08-01 09:30:00, Real value: 104111.95
+2024-08-01 09:40:00: Trade Closed | PnL: 983.62
+2024-08-01 09:40:00: Trade Closed | PnL: -346.98
+2024-08-02 09:48:00, Real value: 103099.66
+2024-08-02 09:48:00: Short DHI @ 178.5437 for size 190 and cash 33923
+2024-08-02 09:48:00: Long LEN @ 167.5837 for size 210 and cash 35192
+2024-08-02 12:52:00: Closing positions for DHI and LEN, Previous spread: 0.0600, Spread: -0.0473
+2024-08-02 12:52:00, Real value: 103862.02
+2024-08-02 12:57:00: Trade Closed | PnL: 429.38
+2024-08-02 12:57:00: Trade Closed | PnL: 8.08
+2024-08-05 09:30:00, Real value: 105106.65
+2024-08-05 09:30:00: Short DHI @ 168.4948 for size 205 and cash 34541
+2024-08-05 09:30:00: Long LEN @ 158.2355 for size 227 and cash 35919
+2024-08-06 09:57:00: Closing positions for DHI and LEN, Previous spread: 0.0543, Spread: -0.0180
+2024-08-06 09:57:00, Real value: 105439.90
+2024-08-06 09:58:00: Trade Closed | PnL: -1447.42
+2024-08-06 09:58:00: Trade Closed | PnL: 1569.68
+2024-08-12 13:21:00, Real value: 105171.48
+2024-08-12 13:21:00: Short DHI @ 171.8908 for size 201 and cash 34550
+2024-08-12 13:21:00: Long LEN @ 161.7507 for size 222 and cash 35908
+2024-09-12 10:35:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0458, Spread: -0.0012
+2024-09-12 10:35:00, Real value: 108885.96
+2024-09-12 10:36:00: Trade Closed | PnL: 133543.54
+2024-09-12 10:36:00: Trade Closed | PnL: -131969.75
+2024-09-12 12:05:00, Real value: 108954.65
+2024-09-12 12:05:00: Short GOOG @ 153.6033 for size 6054 and cash 929914
+2024-09-12 12:05:00: Long GOOGL @ 152.6716 for size 6087 and cash 929312
+2024-09-12 15:43:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0011, Spread: -0.0347
+2024-09-12 15:43:00, Real value: 110084.74
+2024-09-12 15:45:00: Trade Closed | PnL: -7852.04
+2024-09-12 15:45:00: Trade Closed | PnL: 8471.28
+2024-09-13 09:57:00, Real value: 108672.41
+2024-09-13 09:57:00: Short GOOG @ 156.6163 for size 5922 and cash 927481
+2024-09-13 09:57:00: Long GOOGL @ 155.6147 for size 5955 and cash 926685
+2024-09-13 10:51:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0248, Spread: -0.0081
+2024-09-13 10:51:00, Real value: 109981.46
+2024-09-13 10:52:00: Trade Closed | PnL: -9925.27
+2024-09-13 10:52:00: Trade Closed | PnL: 10812.49
+2024-09-13 14:00:00, Real value: 110030.21
+2024-09-13 14:00:00: Short GOOG @ 157.6539 for size 5957 and cash 939144
+2024-09-13 14:00:00: Long GOOGL @ 156.6622 for size 5990 and cash 938406
+2024-09-13 15:42:00: Closing positions for GOOG and GOOGL, Previous spread: 0.0270, Spread: -0.0038
+2024-09-13 15:42:00, Real value: 110386.05
+2024-09-13 15:44:00: Trade Closed | PnL: -2080.18
+2024-09-13 15:44:00: Trade Closed | PnL: 2479.86
+2024-09-16 09:30:00, Real value: 110212.05
+2024-09-16 09:30:00: Short GOOG @ 157.9731 for size 5955 and cash 940729
+2024-09-16 09:30:00: Long GOOGL @ 156.9416 for size 5988 and cash 939766
+2024-09-24 09:30:00: Closing positions for LBRDK and CHTR, Previous spread: -13.1011, Spread: 1.9467
+2024-09-24 09:30:00, Real value: 112450.78
+2024-09-24 09:32:00: Trade Closed | PnL: 2841.72
+2024-09-24 09:32:00: Trade Closed | PnL: -2062.5
+2024-09-24 09:51:00, Real value: 111176.27
+2024-09-24 09:51:00: Short LBRDK @ 76.5350 for size 169 and cash 12934
+2024-09-24 09:51:00: Long CHTR @ 326.2000 for size 46 and cash 15005
+2024-09-27 14:53:00: Closing positions for DHI and LEN, Previous spread: 0.0698, Spread: -0.0493
+2024-09-27 14:53:00, Real value: 111991.73
+2024-09-27 15:11:00: Trade Closed | PnL: -3376.06
+2024-09-27 15:11:00: Trade Closed | PnL: 3896.5
+2024-10-22 09:30:00, Real value: 108926.23
+2024-10-22 09:30:00: Short DHI @ 181.9646 for size 197 and cash 35847
+2024-10-22 09:30:00: Long LEN @ 170.7194 for size 218 and cash 37216
+2024-10-29 09:30:00: Closing positions for DHI and LEN, Previous spread: 3.2858, Spread: -8.6380
+2024-10-29 09:30:00, Real value: 112523.06
+2024-10-29 09:30:00, Real value: 112523.06
+2024-10-29 09:30:00: Long DHI @ 154.3736 for size 240 and cash 37049
+2024-10-29 09:30:00: Short LEN @ 156.1183 for size 266 and cash 41527
+2024-10-29 09:52:00: Trade Closed | PnL: 4158.12
+2024-10-29 09:52:00: Trade Closed | PnL: -2140.26
+2024-11-06 09:30:00: Closing positions for MLM and VMC, Previous spread: 16.6542, Spread: -2.5972
+2024-11-06 09:30:00, Real value: 112013.56
+2024-11-06 09:35:00: Trade Closed | PnL: -9784.43
+2024-11-06 09:35:00: Trade Closed | PnL: 10517.72
+2024-11-06 09:35:00, Real value: 110445.96
+2024-11-06 09:35:00: Short MLM @ 618.6494 for size 68 and cash 42068
+2024-11-06 09:35:00: Long VMC @ 289.3844 for size 142 and cash 41092
+2024-11-13 09:30:00: Closing positions for LBRDK and CHTR, Previous spread: 6.7446, Spread: -1.8582
+2024-11-13 09:30:00, Real value: 112700.52
+2024-11-13 09:36:00: Trade Closed | PnL: -2577.25
+2024-11-13 09:36:00: Trade Closed | PnL: 3615.6
+2024-11-25 15:47:00: Closing positions for MLM and VMC, Previous spread: 0.0596, Spread: -0.0806
+2024-11-25 15:47:00, Real value: 109354.39
+2024-11-25 15:48:00: Trade Closed | PnL: 1076.94
+2024-11-25 15:48:00: Trade Closed | PnL: 357.06
+2024-11-26 09:39:00, Real value: 109928.39
+2024-11-26 09:39:00: Long LBRDK @ 85.4200 for size 150 and cash 12813
+2024-11-26 09:39:00: Short CHTR @ 385.0400 for size 41 and cash 15786
+2024-12-04 09:52:00, Real value: 111639.03
+2024-12-04 09:52:00: Long MLM @ 583.1394 for size 73 and cash 42569
+2024-12-04 09:52:00: Short VMC @ 284.7396 for size 153 and cash 43565
+2024-12-09 13:04:00: Closing positions for LRCX and AMAT, Previous spread: -0.2248, Spread: 0.0381
+2024-12-09 13:04:00, Real value: 111820.31
+2024-12-09 13:14:00: Trade Closed | PnL: -5522.39
+2024-12-09 13:14:00: Trade Closed | PnL: 6027.91
+2024-12-17 09:30:00, Real value: 113746.78
+2024-12-17 09:30:00: Short LRCX @ 77.6065 for size 257 and cash 19944
+2024-12-17 09:30:00: Long AMAT @ 168.1678 for size 119 and cash 20011
+2024-12-19 09:30:00: Closing positions for DHI and LEN, Previous spread: -4.5624, Spread: 1.0420
+2024-12-19 09:30:00, Real value: 116682.14
+2024-12-19 09:30:00: Closing positions for LRCX and AMAT, Previous spread: 1.0161, Spread: -1.0201
+2024-12-19 09:30:00, Real value: 116682.14
+2024-12-19 09:36:00: Trade Closed | PnL: -4605.02
+2024-12-19 09:36:00: Trade Closed | PnL: 6426.08
+2024-12-19 09:36:00: Trade Closed | PnL: 1440.15
+2024-12-19 09:36:00: Trade Closed | PnL: -498.66
+2024-12-19 09:58:00, Real value: 117494.64
+2024-12-19 09:58:00: Long LRCX @ 70.7541 for size 291 and cash 20589
+2024-12-19 09:58:00: Short AMAT @ 162.4009 for size 134 and cash 21761
+2024-12-20 14:02:00, Real value: 120771.73
+2024-12-20 14:02:00: Short DHI @ 139.1037 for size 286 and cash 39783
+2024-12-20 14:02:00: Long LEN @ 132.6735 for size 317 and cash 42057
+2024-12-24 09:30:00: Closing positions for VNO and SLG, Previous spread: -0.0464, Spread: 0.0319
+2024-12-24 09:30:00, Real value: 119946.77
+2024-12-24 10:05:00: Trade Closed | PnL: 6936.36
+2024-12-24 10:05:00: Trade Closed | PnL: -6533.35
+2024-12-31 15:59:00: Closing positions, Spread: 0.0626, GOOG price: 190.2133, GOOGL price: 189.102
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: 1.8078, FOX price: 45.5063, FOXA price: 48.3383
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -0.5500, PAA price: 16.7584, PAGP price: 18.0556
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -2.5192, LBRDK price: 74.72, CHTR price: 342.8
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -7.2795, EQR price: 70.4041, AVB price: 218.3496
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: 3.6841, DHI price: 139.4077, LEN price: 131.5163
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -0.6411, LRCX price: 71.9905, AMAT price: 162.2612
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -2.1887, KIM price: 23.1598, BRX price: 27.2595
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+2024-12-31 15:59:00: Closing positions, Spread: -15.3568, MLM price: 515.9923, VMC price: 256.6818
+Date: 2024-12-31 15:59:00, Cash: 120522.17, Value: 10020522.17
+Total trade value: 27646081
+Total interest fees: 124952.26
+Commission fee fees: 2764.61
+Final return: -7194.70
+Return rate: -107.19%
