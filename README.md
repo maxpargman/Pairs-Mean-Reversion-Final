@@ -1,5 +1,5 @@
 # Pairs Mean Reversion Trading with Linear Regression
-by Max Pargman, Robert Huang, Tyler Stephenson, Ryan Menghi
+by Max Pargman, Robert Huang, Tyler Stephens, Ryan Menghi
 CX 4240
 Spring 2025
 
